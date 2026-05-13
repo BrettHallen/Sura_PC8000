@@ -17,6 +17,19 @@ My only contribution is translating the Python script from Russian to English.<b
 Work in progress - my Sura's original 220VAC power supply is very unhappy.<br>
 This is my attempt at a simpler, universal (12VDC input) replacement.<br>
 
+The original PSU outputs the following via X11 interface:
+|X11 port|Voltage|
+|--------|-------|
+| X11-5  | +5V   |
+| X11-6  | +5V   |
+| X11-8  | -12V  |
+| X11-10 | 0V    |
+| X11-12 | +12V  |
+| X11-24 | +12V  |
+| X11-25 | +5V   |
+| X11-26 | +5V   |
+| X11-27 | 0V    |
+
 ## [Documentation](/Documentation)
 Original documentation in Russian, plus any details I've created of my own.<br>
 Documentation was sourced from the [PK8000 site](https://pk8000.narod.ru/).
