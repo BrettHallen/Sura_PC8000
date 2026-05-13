@@ -1,5 +1,7 @@
 # СУРА ПК8000<br>SURA PC8000
-Projects for the Soviet "inspired by MSX" computer called the СУРА ПК8000.
+Projects for the Soviet "inspired by MSX" computer called the СУРА ПК8000.<br>
+
+Also known as the ВЕСТА (Vesta) and ХОББИ (Hobby).
 
 ## Useful Links
 Mostly in Russian - I use Chrome which has a handy "Translate to English" right-click option.<br>
