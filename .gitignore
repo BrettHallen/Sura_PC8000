@@ -1,3 +1,4 @@
 .DS_Store
 /Sura_PSU/Sura_PSU-backups
 *.kicad_prl
+Sura_PSU/fp-info-cache
