@@ -30,6 +30,8 @@ The original PSU outputs the following via X11 interface:
 | X11-26 | +5V   |
 | X11-27 | 0V    |
 
+![Replacement PSU 3D](/Images/Sura_PC8000_PSU_3D.png)
+
 ## [Documentation](/Documentation)
 Original documentation in Russian, plus any details I've created of my own.<br>
 Documentation was sourced from the [PK8000 site](https://pk8000.narod.ru/).
