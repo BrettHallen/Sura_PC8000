@@ -1,0 +1,13 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+119.3795,-143.405,90.0,top,C1,,,CP_Radial_D5.0mm_P2.50mm,22µF 16V,tht
+64.8095,-143.365,0.0,top,C2,,,CP_Radial_D5.0mm_P2.50mm,10µF 25V,tht
+107.9895,-102.964,90.0,top,C3,,,CP_Radial_D5.0mm_P2.50mm,100µF,tht
+116.8795,-103.004,90.0,top,C4,,,C_Disc_D3.4mm_W2.1mm_P2.50mm,100nF,tht
+99.0995,-97.645,-90.0,top,C5,,,C_Disc_D3.4mm_W2.1mm_P2.50mm,470nF,tht
+52.1095,-158.884,90.0,top,F1,,,Fuseholder_Clip-5x20mm_Littelfuse_111_Inline_P20.00x5.00mm_D1.05mm_Horizontal,T4A,tht
+133.069,-93.744,0.0,top,J1,,,PinHeader_1x05_P2.54mm_Vertical,X11,tht
+52.1095,-181.744,0.0,top,J2,,,694106301002,12V In,tht
+133.069,-193.744,0.0,top,J3,,,PinHeader_1x04_P2.54mm_Vertical,X11,tht
+101.6395,-86.494,0.0,top,L1,,,22R683C,68µH,tht
+90.9495,-129.965,0.0,top,U1,,,DFR0831,DFR0831,tht
+88.9395,-103.004,90.0,top,U2,NKE1212SC,,NKE1212SC,NKE1212SC,tht

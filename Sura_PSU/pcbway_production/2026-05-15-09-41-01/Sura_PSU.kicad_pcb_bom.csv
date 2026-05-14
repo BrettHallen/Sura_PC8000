@@ -1,0 +1,13 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description,Manufacturer_Name,Height
+C1,1,22µF 16V,CP_Radial_D5.0mm_P2.50mm,,,,tht,Polarized capacitor,,
+C2,1,10µF 25V,CP_Radial_D5.0mm_P2.50mm,,,,tht,Polarized capacitor,,
+C3,1,100µF,CP_Radial_D5.0mm_P2.50mm,,,,tht,Polarized capacitor,,
+C4,1,100nF,C_Disc_D3.4mm_W2.1mm_P2.50mm,,,,tht,Unpolarized capacitor,,
+C5,1,470nF,C_Disc_D3.4mm_W2.1mm_P2.50mm,,,,tht,Unpolarized capacitor,,
+F1,1,T4A,Fuseholder_Clip-5x20mm_Littelfuse_111_Inline_P20.00x5.00mm_D1.05mm_Horizontal,,,,tht,Fuse,,
+J1,1,X11,PinHeader_1x05_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)",,
+J2,1,12V In,694106301002,,,,tht,DC Barrel Jack with a mounting pin,,
+J3,1,X11,PinHeader_1x04_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",,
+L1,1,68µH,22R683C,,,,tht,Inductor,,
+U1,1,DFR0831,DFR0831,,,,tht,DC-DC Buck Converter 7-24V to 5V 4A,DFRobot,
+U2,1,NKE1212SC,NKE1212SC,,NKE1212SC,,tht,"Murata Power Solutions NKE 1W Isolated DC-DC Converter Through Hole, Voltage in 10.8  13.2 V dc, Voltage out",Murata Electronics,7.71
