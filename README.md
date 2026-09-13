@@ -3,6 +3,10 @@ Projects for the Soviet "inspired by MSX" computer called the СУРА ПК8000.
 
 Also known as the ВЕСТА (Vesta) and ХОББИ (Hobby).
 
+## YouTube Videos
+- [Part 1: First look](https://youtu.be/wWDCWSeaxUg)
+- [Part 2: New power supply test](https://youtu.be/me7krCPeANg)
+
 ## Useful Links
 Mostly in Russian - I use Chrome which has a handy "Translate to English" right-click option.<br>
 
@@ -14,8 +18,9 @@ Work in progress - a video converter designed for Soviet computers.<br>
 My only contribution is translating the Python script from Russian to English.<br>
 
 ## [PSU Replacement](/Sura_PSU)
-Work in progress - my Sura's original 220VAC power supply is very unhappy.<br>
-This is my attempt at a simpler, universal (12VDC input) replacement.<br>
+Work in progress - my Sura's original 220VAC power supply is very unhappy.  This is my attempt at a simpler, universal (12VDC input) replacement.<br>
+
+I have tested the original Rev. A design ... it works ... but I need to make some tweaks so there will be a Rev. B coming soon.<br>
 
 The original PSU outputs the following via X11 interface:
 |X11 port|Voltage|
